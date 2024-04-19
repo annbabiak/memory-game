@@ -1,0 +1,39 @@
+.card {
+  background-color: #ffffff;
+  height: 130px;
+  width: 130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: 0.3s ease;
+}
+
+img {
+  height: 120px;
+  width: 120px;
+  object-fit: contain;
+}
+
+.back {
+  background: url("../../image/question.png");
+  background-color: #edf1d6;
+  background-size: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  backface-visibility: hidden;
+  cursor: pointer;
+}
+
+.card.open {
+  transform: rotateY(180deg);
+}
+
+.click_disabled {
+  pointer-events: none;
+}
