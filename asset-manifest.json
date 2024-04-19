@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.27a61325.css",
+    "main.js": "/memory-game/static/js/main.4da36205.js",
+    "static/media/flower_3.png": "/memory-game/static/media/flower_3.6a32decad0b8a44ee6f9.png",
+    "static/media/leaf.png": "/memory-game/static/media/leaf.0c08dc1c7e3f1768a1d5.png",
+    "static/media/flower_2.png": "/memory-game/static/media/flower_2.30939bab30931507d5ce.png",
+    "static/media/rubber-plant.png": "/memory-game/static/media/rubber-plant.9056968f8caa373911ff.png",
+    "static/media/plant.png": "/memory-game/static/media/plant.29976bfa4c1c2f538ed5.png",
+    "static/media/flower_1.png": "/memory-game/static/media/flower_1.5294db9974726968d247.png",
+    "static/media/golden-pothos.png": "/memory-game/static/media/golden-pothos.a82d85dd394e123777a0.png",
+    "static/media/ficus.png": "/memory-game/static/media/ficus.fe180c3a5fb58ea166ad.png",
+    "static/media/succulent.png": "/memory-game/static/media/succulent.e95deb6f6dfcd8508954.png",
+    "static/media/cactus.png": "/memory-game/static/media/cactus.e61a19a1b63ce7d866bd.png",
+    "static/media/question.png": "/memory-game/static/media/question.9f189edbb09fd9dd63ca.png",
+    "index.html": "/memory-game/index.html",
+    "main.27a61325.css.map": "/memory-game/static/css/main.27a61325.css.map",
+    "main.4da36205.js.map": "/memory-game/static/js/main.4da36205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27a61325.css",
+    "static/js/main.4da36205.js"
+  ]
+}
